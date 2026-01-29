@@ -39,14 +39,8 @@ This repository is a dedicated space for mastering:
 * **Semantic HTML5:** Building accessible and SEO-friendly structures.
 * **Modern CSS3:** Leveraging Grid, Flexbox, and advanced animations for responsive design.
 * **ES6+ JavaScript:** Mastering DOM manipulation, asynchronous logic, and state management.
-* **Node.js Integration:** Understanding how frontend logic communicates with backend environments.
 
 ---
 
-## 🤝 Connect
-I am a Production Support Engineer and an aspiring frontend developer dedicated to solving technical puzzles.
 
-- **GitHub:** [your-username]
-- **LinkedIn:** [your-profile-link]
 
----
