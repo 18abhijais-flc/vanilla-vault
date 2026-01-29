@@ -14,7 +14,6 @@
 - [🎯 The Philosophy](#-the-philosophy)
 - [🏗️ Project Showcase](#-project-showcase)
 - [🛠️ Tech Stack](#-tech-stack)
-- [🤝 Connect](#-connect)
 
 ---
 
